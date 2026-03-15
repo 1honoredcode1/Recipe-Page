@@ -19,3 +19,8 @@ This project focuses on practicing semantic HTML, layout structure, and clean CS
 | **CSS3**         | Styling and layout |
 | **Flexbox**      | Layout alignment   |
 | **GitHub Pages** | Deployment         |
+
+📸 Screenshot
+
+![Project Preview](prev1.png)
+![Project Preview](prev2.png)
